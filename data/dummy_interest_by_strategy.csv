@@ -1,0 +1,5 @@
+loan_id,strategy,SUM(interest)
+101,avalanche,3795.15
+101,minimum,7083.27
+105,avalanche,44.14
+105,minimum,228.47
