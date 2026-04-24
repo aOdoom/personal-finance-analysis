@@ -28,7 +28,7 @@ How much does the avalanche payoff strategy save compared to minimum payments?
 
 ## **Figures**
 
-![](images/DummySpending%20By%20Category.jpeg)
+![](images/Dummy%20Spending%20By%20Category.jpeg)
 
 ![](images/Dummy%20Payoff%20Strategy.jpeg)
 
