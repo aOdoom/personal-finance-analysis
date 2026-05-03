@@ -21,7 +21,7 @@ pacman::p_load(
 )
 
 # set root directory and make into object
-root_dir <- "/Users/adwoaodoom/Desktop/Ad-Hoc Projects"
+root_dir <- "data"
 
 
 ## --------------------------------------------------------------------------------------------
