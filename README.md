@@ -37,6 +37,8 @@ How much does the avalanche payoff strategy save compared to minimum payments?
 ## **Discussion**
 
 Student loans evidently take up the most of expenses. Using the avalanche method for both loans saves a total of approximately \$3,472 and 4 years of payment. This frees up extra money to be spent on other things.
+Something that surprised me was that utilities and groceries are fairly similar in spending costs. 
+Additionally, visualizing the loan payoff strategies helped me see that the avalanche method was truly the best option and would help me in paying my loans off faster.
 
 ### **Tools Used**
 
