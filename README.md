@@ -6,7 +6,7 @@ This project analyzes simulated financial data to answer a practical question: h
 
 First, the project analyses expenses over four months to understand cash flow, then uses student loan pay off data to visualize payoff schedules under different strategies.
 
-This project demonstrates skills in SQL (data modeling, aggregation, filtering), R (ggplot2, dplyr), and data-driven decision making.
+This project demonstrates skills in SQL (data modeling, aggregation, filtering, view creation), R (ggplot2, dplyr), and data-driven decision making.
 
 ## **Business Question**
 
@@ -36,9 +36,16 @@ How much does the avalanche payoff strategy save compared to minimum payments?
 
 ## **Discussion**
 
-Student loans evidently take up the most of expenses. Using the avalanche method for both loans saves a total of approximately \$3,472 and 4 years of payment. This frees up extra money to be spent on other things.
+Student loans evidently take up the most of expenses. Using the avalanche method for both loans saves a total of approximately $3,472 and 4 years of payment. This frees up extra money to be spent on other things.
 Something that surprised me was that utilities and groceries are fairly similar in spending costs. 
-Additionally, visualizing the loan payoff strategies helped me see that the avalanche method was truly the best option and would help me in paying my loans off faster.
+Additionally, visualizing the loan payoff strategies helped me see that the avalanche method was the best option and would help me pay my loans off faster.
+
+## **Limitations**
+-  Simulated data
+-  Only 2 loans analyzed
+-  Fixed payment assumptions
+
+
 
 ### **Tools Used**
 
