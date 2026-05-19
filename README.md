@@ -36,7 +36,7 @@ How much does the avalanche payoff strategy save compared to minimum payments?
 
 ## **Discussion**
 
-Student loans make up the largest share of expenses. Using the avalanche method saves approximately $3,472 and 4 years compared to minimum payments. Surprisingly, utilities and groceries were nearly equal in spending. Visualizing the payoff trajectories made the advantage of the avalanche method concrete — the lines diverge quickly once the first loan is paid off.
+Student loans (education category) make up the largest share of expenses. Using the avalanche method saves approximately $3,472 and 4 years compared to minimum payments. Surprisingly, utilities and groceries were nearly equal in spending. Visualizing the payoff trajectories made the advantage of the avalanche method concrete — the lines diverge quickly once the first loan is paid off.
 
 ## **Limitations**
 -  Simulated data
